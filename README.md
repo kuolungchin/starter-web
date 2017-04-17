@@ -14,4 +14,4 @@ Deployment Section...
 Please for this repository and issue pull requests for review.
 ### Copyright
 
-Git.Training.
+2014 Git.Training. All rights reserved.
